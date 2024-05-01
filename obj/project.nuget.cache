@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sblkw3Kz47kDWQF3U8ghkjBB4Ihm1c/vFJGmCgmKBPOITX/PEf1Q/KpsrslqRjfincvcmg/RdNwokNowR3XBDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charl\\OneDrive\\Desktop\\Term 1\\Algorithms and Data Structures\\Coursework\\Project 3\\Critical Path Analysis\\Critical Path Analysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
